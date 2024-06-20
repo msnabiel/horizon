@@ -19,8 +19,6 @@ Sure, here’s the updated README with the specified functions included in the *
 
 ## Quick Start
 
-To start using Horizon-Beyond, simply import the library and use its Gen Z-styled functions and modules. Here's a quick example to demonstrate how to get started:
-
 ```python
 import horizon_beyond as hb
 
